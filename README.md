@@ -48,7 +48,7 @@ How to run the project once it’s set up. This could include training the model
        python
       python train.py 
 2. **Making Predictions**: After training, use the following code to make predictions on new medical images:
-      import pandas as pd
+      ```import pandas as pd
       from sklearn.linear_model import LinearRegression
       from sklearn.model_selection import train_test_split
       from sklearn.metrics import mean_squared_error
