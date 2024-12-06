@@ -3,13 +3,14 @@
 ## Table of Content
 1. [Description](#Description)
 2. [Problem Statement](#ProblemStatement)
-3. [Approach](#Approach)
-4. [Interactive Demo](#InteractiveDemo)
-5. [Features](#Features)
-6. [Technologies Used](#TechnologiesUsed)
-7. [Intallation](#Installation)
-8. [Usage](#Usage)
-9. [Contact](#Contact)
+4. [Approach](#Approach)
+5. [Interactive Demo](#InteractiveDemo)
+6. [Data Preprocessing](#DataPreprocessing)
+7. [Features](#Features)
+8. [Technologies Used](#TechnologiesUsed)
+9. [Intallation](#Installation)
+10. [Usage](#Usage)
+11. [Contact](#Contact)
    
 
 
@@ -25,6 +26,9 @@ We used a linear regression model to predict the house prices based on the selec
 ### Interactive Demo
 Try the live version of the house price prediction model here: 
 [Live Demo](https://example.com)
+
+### Data Preprocessing
+Here the techniques used for the data 
 
 ### Features
 - Regression model
