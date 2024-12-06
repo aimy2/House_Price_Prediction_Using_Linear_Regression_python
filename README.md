@@ -3,11 +3,13 @@
 ## Table of Content
 1. [Description](#Description)
 2. [Problem Statement](#ProblemStatement)
-3. [Features](#Features)
-4. [Technologies Used](#TechnologiesUsed)
-5. [Intallation](#Installation)
-6. [Usage](#Usage)
-7. [Contact](#Contact)
+3. [Approach](#Approach)
+4. [Interactive Demo](#InteractiveDemo)
+5. [Features](#Features)
+6. [Technologies Used](#TechnologiesUsed)
+7. [Intallation](#Installation)
+8. [Usage](#Usage)
+9. [Contact](#Contact)
    
 
 
@@ -16,6 +18,13 @@ This model predicts the any house price based on the features provided as it did
 
 ### Problem Statement
 Houses prices are not predictable accurately.
+
+### Approach
+We used a linear regression model to predict the house prices based on the selected features. The dataset was preprocessed to handle missing values, and a simple train-test split was applied for evaluation. We focused on the relationship between key features like area, bedrooms, and bathrooms to predict the target variable—house price.
+
+### Interactive Demo
+Try the live version of the house price prediction model here: 
+[Live Demo](https://example.com)
 
 ### Features
 - Regression model
