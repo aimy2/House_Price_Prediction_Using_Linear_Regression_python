@@ -45,7 +45,8 @@ Houses prices are not predictable accurately.
 How to run the project once it’s set up. This could include training the model, making predictions, and interacting with any interface
 1. **Training the Model:**
       To train the model, run:
-      ```python train.py
+      ``` python
+      python train.py ```
 2. **Making Predictions**: After training, use the following code to make predictions on new medical images:
       ```import pandas as pd
       from sklearn.linear_model import LinearRegression
