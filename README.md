@@ -4,13 +4,12 @@
 1. [Description](#Description)
 2. [Problem Statement](#ProblemStatement)
 4. [Approach](#Approach)
-5. [Interactive Demo](#InteractiveDemo)
-6. [Data Preprocessing](#DataPreprocessing)
-7. [Features](#Features)
-8. [Technologies Used](#TechnologiesUsed)
-9. [Intallation](#Installation)
-10. [Usage](#Usage)
-11. [Contact](#Contact)
+5. [Data Preprocessing](#DataPreprocessing)
+6. [Features](#Features)
+7. [Technologies Used](#TechnologiesUsed)
+8. [Intallation](#Installation)
+9. [Usage](#Usage)
+10. [Contact](#Contact)
    
 
 
@@ -23,12 +22,8 @@ Houses prices are not predictable accurately.
 ### Approach
 We used a linear regression model to predict the house prices based on the selected features. The dataset was preprocessed to handle missing values, and a simple train-test split was applied for evaluation. We focused on the relationship between key features like area, bedrooms, and bathrooms to predict the target variable—house price.
 
-### Interactive Demo
-Try the live version of the house price prediction model here: 
-[Live Demo](https://example.com)
-
 ### Data Preprocessing
-Here the techniques used for the data 
+Here are the techniques used for the data preprocessing
 
 ### Features
 - Regression model
@@ -91,6 +86,10 @@ How to run the project once it’s set up. This could include training the model
       new_house = pd.DataFrame([[2500, 4, 3]], columns=['area', 'bedrooms', 'bathrooms'])
       predicted_price = model.predict(new_house)
       print(f"Predicted price for the new house: ${predicted_price[0]:,.2f}")
+
+### Interactive Demo
+Try the live version of the house price prediction model here: 
+[Live Demo](https://example.com)
 
 ### Contact
 - [Syeda Aiman Mumtaz Sherazi](mailto:aimanmumtaz27@gmail.com)
