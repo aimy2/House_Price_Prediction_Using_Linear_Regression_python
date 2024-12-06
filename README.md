@@ -2,10 +2,12 @@
 
 ## Table of Content
 1. [Description](#Description)
-2. [Problem Statement](#Problem Statement)
+2. [Problem Statement](#ProblemStatement)
 3. [Features](#Features)
-4. [Technologies Used](#Technologies Used)
-5. [Contact](#Contact)
+4. [Technologies Used](#TechnologiesUsed)
+5. [Usage](#Usage)
+6. [Contact](#Contact)
+   
 
 
 ## Description
@@ -26,6 +28,9 @@ Houses prices are not predictable accurately.
 - **Seaborn**
 - **Pandas**
 - **Matpltlib**
+
+## Usage
+  How to run the project write here 
 
 ## Contact
 - [Syeda Aiman Mumtaz Sherazi](mailto:aimanmumtaz27@gmail.com)
