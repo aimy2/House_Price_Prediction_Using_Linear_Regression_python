@@ -1,5 +1,12 @@
 # House_Price_Prediction_Using_Linear_Regression_python
 
+## Table of Content
+1. [Description](#Description)
+2. [Problem Statement](#Problem Statement)
+3. [Features](#Features)
+4. [Technologies Used](#Technologies Used)
+5. [Contact](#Contact)
+
 
 ## Description
 This model predicts the any house price based on the features provided as it did supervised learning.
@@ -20,6 +27,8 @@ Houses prices are not predictable accurately.
 - **Pandas**
 - **Matpltlib**
 
-
+## Contact
+- [Syeda Aiman Mumtaz Sherazi](mailto:aimanmumtaz27@gmail.com)
+  
 ## just checking
 ![different colour](https://github.com/user-attachments/assets/80100bbf-cb50-4f04-aedf-b22856821e17)
